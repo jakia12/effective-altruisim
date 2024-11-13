@@ -662,7 +662,7 @@ img.ft_icon {
 
 
 .contact-us{
-  background-image: linear-gradient(#111111de,#111111c8),url(/images/all-img/banner/ban5.jpg);
+  background-image: linear-gradient(#111111a5,#111111ae),url(/images/gl4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -897,6 +897,15 @@ img.img-fluid.center-block.part_img {
 
 .banttl{
   font-size:60px
+}
+
+.img img{
+  width:100%;
+  border:1px dashed #F8B80D;
+  border-radius:10px
+}
+.img {
+  margin: 14px 0;
 }
 @media screen and (max-width:768px){
   
